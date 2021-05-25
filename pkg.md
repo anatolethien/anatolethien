@@ -3,6 +3,34 @@
 Ubuntu 21.04 (Minimal installation)
 Gnome 3.38
 
+## snapd
+
+Remove snapd completely
+
+```
+snap list
+```
+
+```
+sudo snap remove --purge package-name
+```
+
+```
+sudo rm -rf /var/cache/snapd/
+```
+
+```
+sudo apt autoremove --purge snapd
+```
+
+```
+rm -fr ~/snap
+```
+
+```
+sudo apt-mark hold snapd
+```
+
 ## apt
 
 * vim

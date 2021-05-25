@@ -18,6 +18,8 @@ Gnome 3.38
 
 ## flatpak
 
+`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
+
 * org.mozilla.firefox
 * org.chromium.Chromium
 * com.discordapp.Discord

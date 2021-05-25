@@ -32,3 +32,27 @@ Gnome 3.38
 * com.system76.Popsicle
 * com.valvesoftware.Steam
 * com.mojang.Minecraft
+
+## firefox
+
+### Home
+- Web Search
+- ~~Top Sites~~
+- ~~Highlights~~
+- ~~Snippets~~
+
+### Search
+- Default Search Engine: DuckDuckGo
+- Search Shortcuts: [DuckDuckGo, Google, Bing, Bookmarks, Tabs, History]
+
+### Privacy & Security
+- HTTPS-Only Mode: Enable HTTPS-Only Mode in all windows
+
+
+
+
+
+
+
+
+

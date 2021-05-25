@@ -26,6 +26,7 @@ Gnome 3.38
 * com.microsoft.Teams
 * io.atom.Atom
 * org.libreoffice.LibreOffice
+* com.github.fabiocolacio.marker
 * com.obsproject.Studio
 * org.gimp.GIMP
 * org.videolan.VLC

@@ -11,6 +11,9 @@ Gnome 3.38
 * neofetch
 * preload
 * build-essential
+* golang
+* nodejs
+* npm
 * flatpak
 
 ## flatpak

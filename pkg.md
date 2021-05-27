@@ -42,7 +42,18 @@ sudo apt-mark hold snapd
 * golang
 * nodejs
 * npm
-* flatpak
+* vlc
+* gimp
+
+## dpkg
+
+* chrome
+* discord
+* atom
+* teams
+* libreoffice
+* steam
+* minecraft
 
 ## flatpak
 
